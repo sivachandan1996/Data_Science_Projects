@@ -7,13 +7,16 @@
 
 # Table of contents
 * [Supervised Learning Projects](#supervised-learning-projects)
-    1. [Predicting Credit Card Approval using Logistic Regression](#predicting-credit-card-approval-using-logistic-regression)
+    1. [Predicting Credit Card Approval using Logistic Regression](#1.predicting-credit-card-approval-using-logistic-regression)
     
 
 ---
 ## Supervised Learning Projects
+---
 
-### Predicting Credit Card Approval using Logistic Regression
+### 1.Predicting Credit Card Approval using Logistic Regression
+
+
 
 
 
